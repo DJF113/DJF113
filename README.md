@@ -3,6 +3,8 @@
 ## My Current Projects
 [Core Mining, Inc.](https://github.com/DJF113/Core-Mining-Inc) is a plugin for the game Endless Sky.
 
+<a href="https://www.indiedb.com/mods/core-mining-inc" title="View Core Mining, Inc. on Indie DB" target="_blank"><img src="https://button.indiedb.com/popularity/medium/mods/32798.png" alt="Core Mining, Inc." /></a>
+
 [Endless Sky: Tachyon Edition](https://github.com/DJF113/Endless-Sky-Tachyon-Edition) is a complete overhaul plugin for the game Endless Sky.
 
 <!--
