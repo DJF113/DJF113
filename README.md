@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## My Current Projects
+[Core Mining, Inc.](https://github.com/DJF113/Core-Mining-Inc) is a plugin for the game Endless Sky.
+
+[Endless Sky: Tachyon Edition](https://github.com/DJF113/Endless-Sky-Tachyon-Edition) is a complete overhaul plugin for the game Endless Sky.
+
 <!--
 **DJF113/DJF113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
